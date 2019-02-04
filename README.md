@@ -18,7 +18,7 @@
 ### React
 
 - [http://this-week-in-react.org](http://this-week-in-react.org)
-- [http://reactjsnewsletter.com)(http://reactjsnewsletter.com/)
+- [http://reactjsnewsletter.com](http://reactjsnewsletter.com/)
 
 ## Design
 
