@@ -16,9 +16,18 @@
 - [Full Web](http://fullweb.io/)
 - [Pony Foo](https://ponyfoo.com/weekly)
 
+## CSS
+
+- [CSS Weekly](https://css-weekly.com/)
+- [CSS Tricks](https://css-tricks.com/)
+
 ## Javascript
 
 - [Javascript Weekly](https://javascriptweekly.com)
+
+## Angular
+
+- [NG Newsletter](https://www.ng-newsletter.com/)
 
 ## React
 
@@ -52,6 +61,8 @@
 ## Design
 
 - [UI Movement](https://newsletter.uimovement.com/ui-movement/)
+- [Sidebar](https://sidebar.io/)
+- [Product Design Weekly](http://designweekly.atomic.io/)
 
 # Montly
 
