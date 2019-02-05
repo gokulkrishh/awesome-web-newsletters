@@ -7,52 +7,52 @@
 
 ## General
 
-- [https://webplatform.news](https://webplatform.news)
-- [https://changelog.com](https://changelog.com/)
-- [https://wdrl.info](https://wdrl.info/)
-- [https://zendev.com/friday-frontend.html](https://zendev.com/friday-frontend.html)
-- [Front end weekly](https://frontendweekly.co/)
-- [https://www.smashingmagazine.com/the-smashing-newsletter](https://www.smashingmagazine.com/the-smashing-newsletter)
-- [http://fullweb.io](http://fullweb.io/)
-- [https://ponyfoo.com/weekly](https://ponyfoo.com/weekly)
+- [Webplatform.news](https://webplatform.news)
+- [Changelog](https://changelog.com/)
+- [Web Development Reading List](https://wdrl.info/)
+- [Friday Frontend](https://zendev.com/friday-frontend.html)
+- [Front End Weekly](https://frontendweekly.co/)
+- [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter)
+- [Full Web](http://fullweb.io/)
+- [Pony Foo](https://ponyfoo.com/weekly)
 
 ## Javascript
 
-- [https://javascriptweekly.com](https://javascriptweekly.com)
+- [Javascript Weekly](https://javascriptweekly.com)
 
 ## React
 
-- [http://this-week-in-react.org](http://this-week-in-react.org)
-- [http://reactjsnewsletter.com](http://reactjsnewsletter.com/)
+- [This Week In React](http://this-week-in-react.org)
+- [Reactjs Newsletter](http://reactjsnewsletter.com/)
 
 ## React Native
 
-- [http://reactnative.cc](http://reactnative.cc/)
+- [React Native](http://reactnative.cc/)
 
 ## Vue
 
-- [https://news.vuejs.org](https://news.vuejs.org/)
+- [News Vuejs ](https://news.vuejs.org/)
 
 ## NodeJS
 
-- [https://nodeweekly.com](https://nodeweekly.com/)
+- [Node Weekly](https://nodeweekly.com/)
 
 ## Web Assembly
 
-- [https://wasmweekly.news](https://wasmweekly.news/)
+- [Wasm Weekly](https://wasmweekly.news/)
 
 ## Typescript
 
-- [https://www.typescript-weekly.com](https://www.typescript-weekly.com/)
+- [Typescript Weekly](https://www.typescript-weekly.com/)
 
 ## Tools 
 
-- [https://webtoolsweekly.com](https://webtoolsweekly.com/)
+- [Webtools Weekly](https://webtoolsweekly.com/)
 
 ## Design
 
-- [ui-movement](https://newsletter.uimovement.com/ui-movement/)
+- [UI Movement](https://newsletter.uimovement.com/ui-movement/)
 
 # Montly
 
-- [pwa.tips](https://pwa.tip)
+- [PWA Tips](https://pwa.tip)
