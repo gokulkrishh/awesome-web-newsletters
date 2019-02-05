@@ -1,38 +1,69 @@
-# Awesome Web Newsletters
+<p align="middle"><img src="./logo.png" alt="Awesome newsletters"/><p>
+<h1 align="middle">Awesome Web Newsletters</h1>
 
-🔥List of awesome web related newsletter to subscribe.
+<p align="middle"> 🔥List of awesome web related newsletter to subscribe. </p>
 
-## Weekly
+# Weekly
 
-### General
+## General
 
-- [https://webplatform.news](https://webplatform.news)
-- [https://changelog.com/](https://changelog.com/)
-- [https://wdrl.info/](https://wdrl.info/)
-- [https://zendev.com/friday-frontend.html](https://zendev.com/friday-frontend.html)
-- [Front end weekly](https://frontendweekly.co/)
+- [Webplatform.news](https://webplatform.news)
+- [Changelog](https://changelog.com/)
+- [Web Development Reading List](https://wdrl.info/)
+- [Friday Frontend](https://zendev.com/friday-frontend.html)
+- [Front End Weekly](https://frontendweekly.co/)
+- [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter)
+- [Full Web](http://fullweb.io/)
+- [Pony Foo](https://ponyfoo.com/weekly)
 
-### NodeJS
+## CSS
 
-- [https://nodeweekly.com/](https://nodeweekly.com/)
+- [CSS Weekly](https://css-weekly.com/)
+- [CSS Tricks](https://css-tricks.com/)
 
-### Javascript
+## Javascript
 
-- [https://javascriptweekly.com](https://javascriptweekly.com)
+- [Javascript Weekly](https://javascriptweekly.com)
 
-### React
+## Angular
 
-- [http://this-week-in-react.org](http://this-week-in-react.org)
-- [http://reactjsnewsletter.com](http://reactjsnewsletter.com/)
+- [NG Newsletter](https://www.ng-newsletter.com/)
 
-### Vue
+## React
 
-- [https://news.vuejs.org/](https://news.vuejs.org/)
+- [This Week In React](http://this-week-in-react.org)
+- [Reactjs Newsletter](http://reactjsnewsletter.com/)
+
+## React Native
+
+- [React Native](http://reactnative.cc/)
+
+## Vue
+
+- [News Vuejs ](https://news.vuejs.org/)
+
+## NodeJS
+
+- [Node Weekly](https://nodeweekly.com/)
+
+## Web Assembly
+
+- [Wasm Weekly](https://wasmweekly.news/)
+
+## Typescript
+
+- [Typescript Weekly](https://www.typescript-weekly.com/)
+
+## Tools 
+
+- [Webtools Weekly](https://webtoolsweekly.com/)
 
 ## Design
 
-- [ui-movement](https://newsletter.uimovement.com/ui-movement/)
+- [UI Movement](https://newsletter.uimovement.com/ui-movement/)
+- [Sidebar](https://sidebar.io/)
+- [Product Design Weekly](http://designweekly.atomic.io/)
 
-## Montly
+# Montly
 
-- [pwa.tips](https://pwa.tip)
+- [PWA Tips](https://pwa.tip)
