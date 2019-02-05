@@ -67,3 +67,10 @@
 # Montly
 
 - [PWA Tips](https://pwa.tip)
+
+#### Contributions
+
+- If you wish to contribute to this repository, fork it and send a PR 😬 with awesome links.
+- And, if you like the repo, 🌟 it.
+
+##### MIT Licensed
