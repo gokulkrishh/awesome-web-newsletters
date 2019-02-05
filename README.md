@@ -10,6 +10,11 @@
 - [https://changelog.com/](https://changelog.com/)
 - [https://wdrl.info/](https://wdrl.info/)
 - [https://zendev.com/friday-frontend.html](https://zendev.com/friday-frontend.html)
+- [Front end weekly](https://frontendweekly.co/)
+
+### NodeJS
+
+- [https://nodeweekly.com/](https://nodeweekly.com/)
 
 ### Javascript
 
@@ -19,6 +24,10 @@
 
 - [http://this-week-in-react.org](http://this-week-in-react.org)
 - [http://reactjsnewsletter.com](http://reactjsnewsletter.com/)
+
+### Vue
+
+- [https://news.vuejs.org/](https://news.vuejs.org/)
 
 ## Design
 
