@@ -28,7 +28,7 @@
 
 ## Web Assembly
 
--[https://wasmweekly.news/](https://wasmweekly.news/)
+- [https://wasmweekly.news/](https://wasmweekly.news/)
 
 ## Vue
 
