@@ -3,9 +3,9 @@
 
 <p align="middle"> 🔥List of awesome web related newsletter to subscribe. </p>
 
-## Weekly
+# Weekly
 
-### General
+## General
 
 - [https://webplatform.news](https://webplatform.news)
 - [https://changelog.com/](https://changelog.com/)
@@ -13,20 +13,24 @@
 - [https://zendev.com/friday-frontend.html](https://zendev.com/friday-frontend.html)
 - [Front end weekly](https://frontendweekly.co/)
 
-### NodeJS
+## NodeJS
 
 - [https://nodeweekly.com/](https://nodeweekly.com/)
 
-### Javascript
+## Javascript
 
 - [https://javascriptweekly.com](https://javascriptweekly.com)
 
-### React
+## React
 
 - [http://this-week-in-react.org](http://this-week-in-react.org)
 - [http://reactjsnewsletter.com](http://reactjsnewsletter.com/)
 
-### Vue
+## Web Assembly
+
+-[https://wasmweekly.news/](https://wasmweekly.news/)
+
+## Vue
 
 - [https://news.vuejs.org/](https://news.vuejs.org/)
 
@@ -34,6 +38,6 @@
 
 - [ui-movement](https://newsletter.uimovement.com/ui-movement/)
 
-## Montly
+# Montly
 
 - [pwa.tips](https://pwa.tip)
