@@ -1,7 +1,7 @@
 <p align="middle"><img src="./logo.png" alt="Awesome newsletters"/><p>
 <h1 align="middle">Awesome Web Newsletters</h1>
 
-🔥List of awesome web related newsletter to subscribe.
+<p align="middle"> 🔥List of awesome web related newsletter to subscribe. </p>
 
 ## Weekly
 
