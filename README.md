@@ -60,6 +60,7 @@
 - [UI Movement](https://newsletter.uimovement.com/ui-movement/)
 - [Sidebar](https://sidebar.io/)
 - [Product Design Weekly](http://designweekly.atomic.io/)
+- [Design Systems](https://designsystems.email/)
 
 #### Contributions
 
