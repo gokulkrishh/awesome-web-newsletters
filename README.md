@@ -3,8 +3,6 @@
 
 <p align="middle"> 🔥List of awesome web related newsletter to subscribe. </p>
 
-## Weekly
-
 ##### `General`
 
 - [Web Platform News](https://webplatform.news)
@@ -62,10 +60,6 @@
 - [UI Movement](https://newsletter.uimovement.com/ui-movement/)
 - [Sidebar](https://sidebar.io/)
 - [Product Design Weekly](http://designweekly.atomic.io/)
-
-## Montly
-
-- [PWA Tips](https://pwa.tip)
 
 #### Contributions
 
