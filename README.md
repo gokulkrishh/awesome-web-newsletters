@@ -3,9 +3,9 @@
 
 <p align="middle"> 🔥List of awesome web related newsletter to subscribe. </p>
 
-# Weekly
+## Weekly
 
-## General
+##### `General`
 
 - [Web Platform News](https://webplatform.news)
 - [Changelog](https://changelog.com/)
@@ -16,55 +16,55 @@
 - [Full Web](http://fullweb.io/)
 - [Pony Foo](https://ponyfoo.com/weekly)
 
-## CSS
+##### `CSS`
 
 - [CSS Weekly](https://css-weekly.com/)
 - [CSS Tricks](https://css-tricks.com/)
 
-## Javascript
+##### `Javascript`
 
 - [Javascript Weekly](https://javascriptweekly.com)
 
-## Angular
+##### `Angular`
 
 - [NG Newsletter](https://www.ng-newsletter.com/)
 
-## React
+##### `React`
 
 - [This Week In React](http://this-week-in-react.org)
 - [Reactjs Newsletter](http://reactjsnewsletter.com/)
 
-## React Native
+##### `React Native`
 
 - [React Native](http://reactnative.cc/)
 
-## Vue
+##### `Vue`
 
 - [News Vuejs ](https://news.vuejs.org/)
 
-## NodeJS
+##### `NodeJS`
 
 - [Node Weekly](https://nodeweekly.com/)
 
-## Web Assembly
+##### `Web Assembly`
 
 - [Wasm Weekly](https://wasmweekly.news/)
 
-## Typescript
+##### `Typescript`
 
 - [Typescript Weekly](https://www.typescript-weekly.com/)
 
-## Tools 
+##### `Tools`
 
 - [Webtools Weekly](https://webtoolsweekly.com/)
 
-## Design
+##### `Design`
 
 - [UI Movement](https://newsletter.uimovement.com/ui-movement/)
 - [Sidebar](https://sidebar.io/)
 - [Product Design Weekly](http://designweekly.atomic.io/)
 
-# Montly
+## Montly
 
 - [PWA Tips](https://pwa.tip)
 
