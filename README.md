@@ -52,6 +52,10 @@
 
 - [Typescript Weekly](https://www.typescript-weekly.com/)
 
+##### `Chrome DevTools`
+
+- [Dev Tips](https://umaar.com/dev-tips/)
+
 ##### `Tools`
 
 - [Webtools Weekly](https://webtoolsweekly.com/)
