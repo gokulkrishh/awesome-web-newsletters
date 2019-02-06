@@ -10,11 +10,10 @@
 - [Web Platform News](https://webplatform.news)
 - [Changelog](https://changelog.com/)
 - [Web Development Reading List](https://wdrl.info/)
-- [Friday Frontend](https://zendev.com/friday-frontend.html)
 - [Front End Weekly](https://frontendweekly.co/)
 - [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter)
-- [Full Web](http://fullweb.io/)
 - [Pony Foo](https://ponyfoo.com/weekly)
+- [https://frontendfoc.us](https://frontendfoc.us/)
 
 ##### `CSS`
 
