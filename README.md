@@ -21,6 +21,7 @@
 ##### `Javascript`
 
 - [Javascript Weekly](https://javascriptweekly.com)
+- [ES Next News](http://esnextnews.com/)
 
 ##### `Angular`
 
