@@ -13,7 +13,7 @@
 - [Front End Weekly](https://frontendweekly.co/)
 - [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter)
 - [Pony Foo](https://ponyfoo.com/weekly)
-- [https://frontendfoc.us](https://frontendfoc.us/)
+- [Frontend Focus](https://frontendfoc.us/)
 
 ##### `CSS`
 
