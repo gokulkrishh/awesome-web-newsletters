@@ -12,6 +12,7 @@
 - [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter)
 - [Pony Foo](https://ponyfoo.com/weekly)
 - [Frontend Focus](https://frontendfoc.us/)
+- [Frontend Front](https://frontendfront.com/)
 
 ##### `CSS`
 
@@ -67,6 +68,7 @@
 - [Product Design Weekly](http://designweekly.atomic.io/)
 - [Design Systems](https://designsystems.email/)
 - [Nielsen Norman Group](https://www.nngroup.com/articles/subscribe/)
+- [Sidebar](https://sidebar.io/)
 
 #### Contributions
 
