@@ -13,6 +13,8 @@
 - [Pony Foo](https://ponyfoo.com/weekly)
 - [Frontend Focus](https://frontendfoc.us/)
 - [Frontend Front](https://frontendfront.com/)
+- [Web Performance News](https://perf.email/)
+- [Web OPS Weekly](https://webopsweekly.com/)
 
 ##### `CSS`
 
