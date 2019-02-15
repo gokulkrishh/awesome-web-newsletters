@@ -15,12 +15,14 @@
 - [Frontend Front](https://frontendfront.com/)
 - [Web Performance News](https://perf.email/)
 - [Web OPS Weekly](https://webopsweekly.com/)
+- [Codrops](https://tympanus.net/codrops/)
 
 ##### `CSS`
 
 - [CSS Weekly](https://css-weekly.com/)
 - [CSS Tricks](https://css-tricks.com/)
 - [SVG Weekly](https://tinyletter.com/svgweekly)
+- [Codepen Spark](https://codepen.io/spark/)
 
 ##### `Javascript`
 
