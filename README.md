@@ -17,6 +17,7 @@
 - [Web OPS Weekly](https://webopsweekly.com/)
 - [Codrops](https://tympanus.net/codrops/)
 - [Weekend Reading](https://labnotes.org/)
+- [Mozilla Developer Network](https://www.mozilla.org/en-US/newsletter/)
 
 ##### `CSS`
 
