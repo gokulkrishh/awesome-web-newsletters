@@ -16,6 +16,7 @@
 - [Web Performance News](https://perf.email/)
 - [Web OPS Weekly](https://webopsweekly.com/)
 - [Codrops](https://tympanus.net/codrops/)
+- [Weekend Reading](https://labnotes.org/)
 
 ##### `CSS`
 
