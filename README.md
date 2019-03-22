@@ -5,32 +5,32 @@
 
 ##### `General`
 
-- [Web Platform News](https://webplatform.news)
 - [Changelog](https://changelog.com/)
-- [Web Development Reading List](https://wdrl.info/)
+- [Codrops](https://tympanus.net/codrops/)
 - [Front End Weekly](https://frontendweekly.co/)
-- [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter)
-- [Pony Foo](https://ponyfoo.com/weekly)
 - [Frontend Focus](https://frontendfoc.us/)
 - [Frontend Front](https://frontendfront.com/)
-- [Web Performance News](https://perf.email/)
-- [Web OPS Weekly](https://webopsweekly.com/)
-- [Codrops](https://tympanus.net/codrops/)
-- [Weekend Reading](https://labnotes.org/)
 - [Mozilla Developer Network](https://www.mozilla.org/en-US/newsletter/)
+- [Pony Foo](https://ponyfoo.com/weekly)
+- [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter)
 - [This Week In Web](https://www.this-week-in-web.com)
+- [Web Development Reading List](https://wdrl.info/)
+- [Web OPS Weekly](https://webopsweekly.com/)
+- [Web Performance News](https://perf.email/)
+- [Web Platform News](https://webplatform.news)
+- [Weekend Reading](https://labnotes.org/)
 
 ##### `CSS`
 
+- [Codepen Spark](https://codepen.io/spark/)
 - [CSS Weekly](https://css-weekly.com/)
 - [CSS Tricks](https://css-tricks.com/)
 - [SVG Weekly](https://tinyletter.com/svgweekly)
-- [Codepen Spark](https://codepen.io/spark/)
 
 ##### `Javascript`
 
-- [Javascript Weekly](https://javascriptweekly.com)
 - [ES Next News](http://esnextnews.com/)
+- [Javascript Weekly](https://javascriptweekly.com)
 
 ##### `Angular`
 
@@ -38,9 +38,9 @@
 
 ##### `React`
 
-- [This Week In React](http://this-week-in-react.org)
 - [Reactjs Newsletter](http://reactjsnewsletter.com/)
 - [Tiny React](http://tinyreact.email)
+- [This Week In React](http://this-week-in-react.org)
 
 ##### `React Native`
 
@@ -72,11 +72,11 @@
 
 ##### `Design`
 
-- [UI Movement](https://newsletter.uimovement.com/ui-movement/)
-- [Product Design Weekly](http://designweekly.atomic.io/)
 - [Design Systems](https://designsystems.email/)
 - [Nielsen Norman Group](https://www.nngroup.com/articles/subscribe/)
+- [Product Design Weekly](http://designweekly.atomic.io/)
 - [Sidebar](https://sidebar.io/)
+- [UI Movement](https://newsletter.uimovement.com/ui-movement/)
 
 #### Contributions
 
