@@ -40,6 +40,7 @@
 
 - [This Week In React](http://this-week-in-react.org)
 - [Reactjs Newsletter](http://reactjsnewsletter.com/)
+- [Tiny React](http://tinyreact.email)
 
 ##### `React Native`
 
