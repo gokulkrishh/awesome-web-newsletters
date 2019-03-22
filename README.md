@@ -18,6 +18,7 @@
 - [Codrops](https://tympanus.net/codrops/)
 - [Weekend Reading](https://labnotes.org/)
 - [Mozilla Developer Network](https://www.mozilla.org/en-US/newsletter/)
+- [This Week In Web](https://www.this-week-in-web.com)
 
 ##### `CSS`
 
