@@ -1,5 +1,5 @@
 <p align="middle"><img src="./logo.png" alt="Awesome newsletters"/><p>
-<h1 align="middle">[Awesome Web Newsletters](https://git.io/awesome-web-newsletters)</h1>
+<h1 align="middle"><a href="https://git.io/awesome-web-newsletters"> Awesome Web Newsletters</h1>
 
 <p align="middle"> 🔥List of awesome web related newsletter to subscribe. </p>
 
