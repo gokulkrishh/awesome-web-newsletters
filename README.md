@@ -26,6 +26,7 @@
 - [CSS Weekly](https://css-weekly.com/)
 - [CSS Tricks](https://css-tricks.com/)
 - [SVG Weekly](https://tinyletter.com/svgweekly)
+- [Tailwind Weekly](https://tailwindweekly.com/)
 
 ##### `Javascript`
 
