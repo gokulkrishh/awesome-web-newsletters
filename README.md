@@ -80,6 +80,10 @@
 - [Sidebar](https://sidebar.io/)
 - [UI Movement](https://newsletter.uimovement.com/ui-movement/)
 
+##### `Marketing`
+
+- [tl;dr Marketing](https://tldrmarketing.com)
+
 #### Contributions
 
 - If you wish to contribute to this repository, fork it and send a PR 😬 with awesome links.
