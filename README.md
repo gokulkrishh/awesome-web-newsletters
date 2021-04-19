@@ -32,7 +32,7 @@
 
 - [ES Next News](http://esnextnews.com/)
 - [Javascript Weekly](https://javascriptweekly.com)
-- [How It Works - Javascript Series](https://how-it-works.dev)
+- [How It Works - Javascript Series](https://gokul.site)
 
 ##### `Angular`
 
