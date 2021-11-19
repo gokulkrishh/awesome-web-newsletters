@@ -80,6 +80,10 @@
 - [Sidebar](https://sidebar.io/)
 - [UI Movement](https://newsletter.uimovement.com/ui-movement/)
 
+##### `Security`
+
+- [Advisory Week](https://advisoryweek.com/)
+
 #### Contributions
 
 - If you wish to contribute to this repository, fork it and send a PR 😬 with awesome links.
